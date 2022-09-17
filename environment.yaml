@@ -1,0 +1,19 @@
+name: snorkel
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.9
+  - pip
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  - pytorch
+  - torchvision
+  - torchtext
+  - snorkel
+  - pip:
+    - torchviz
+    - ipywidgets
+    - datasets
+

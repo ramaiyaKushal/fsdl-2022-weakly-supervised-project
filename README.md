@@ -1,2 +1,2 @@
-# nlp-snorkel
+# snorkel
  Snorkel
